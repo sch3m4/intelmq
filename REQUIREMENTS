@@ -17,3 +17,4 @@ six>=1.7
 python-termstyle>=0.1.10
 unicodecsv>=0.9.4
 xmpppy>=0.5.0rc1
+pika>=0.10.0

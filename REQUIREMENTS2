@@ -21,3 +21,4 @@ xmpppy==0.5.0rc1
 ndg-httpsclient==0.4.0
 pyasn1==0.1.7
 pyOpenSSL==0.13
+pika>=0.10.0
